@@ -1,0 +1,17 @@
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Oliveira/work/unity/UFO/obj/Debug/Assembly-CSharp.dll
+/Users/Oliveira/work/unity/UFO/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/UnityEngine.dll
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/UnityEditor.dll
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Oliveira/work/unity/UFO/Temp/bin/Debug/Mono.Cecil.Mdb.dll
